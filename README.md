@@ -8,7 +8,7 @@
 <p>Druge vrednosti se spremenijo na isto vrednost kot je APB1</p>
 
 <h3>Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekvenca takta?</h3>
-<p>Frekvenca jr sedaj 4 MHz</p>
+<p>Frekvenca je sedaj 4 MHz</p>
 
  <h3>Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 ciklov. Pravi čas vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v mikro sekundah?</h3>
   <p>59,875ms.</p>
